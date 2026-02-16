@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_common_trade_tabs",
+  "info": {
+    "displayName": "trade_tab"
+  },
+  "options": {},
+  "attributes": {
+    "tab_type": {
+      "type": "string"
+    },
+    "table_with_values": {
+      "type": "component",
+      "component": "common.table-with-values",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

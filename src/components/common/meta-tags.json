@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_common_meta_tags",
+  "info": {
+    "displayName": "meta_tags"
+  },
+  "options": {},
+  "attributes": {
+    "meta_title": {
+      "type": "text"
+    },
+    "meta_description": {
+      "type": "text"
+    },
+    "meta_keywords": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

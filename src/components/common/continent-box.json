@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_common_continent_boxes",
+  "info": {
+    "displayName": "continent_box"
+  },
+  "options": {},
+  "attributes": {
+    "Continent_name": {
+      "type": "string"
+    },
+    "button_with_image": {
+      "type": "component",
+      "component": "common.button-with-image",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

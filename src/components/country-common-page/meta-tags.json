@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_country_common_page_meta_tags",
+  "info": {
+    "displayName": "meta_tags"
+  },
+  "options": {},
+  "attributes": {
+    "meta_tags": {
+      "type": "component",
+      "component": "common.meta-tags",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

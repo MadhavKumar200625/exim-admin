@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_common_images",
+  "info": {
+    "displayName": "image"
+  },
+  "options": {},
+  "attributes": {
+    "image_url": {
+      "type": "string"
+    },
+    "image_text": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

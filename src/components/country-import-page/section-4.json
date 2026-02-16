@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_country_import_page_section_4s",
+  "info": {
+    "displayName": "section-4"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "view_sample_data": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

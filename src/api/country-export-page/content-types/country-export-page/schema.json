@@ -1,0 +1,78 @@
+{
+  "kind": "collectionType",
+  "collectionName": "country_export_pages",
+  "info": {
+    "singularName": "country-export-page",
+    "pluralName": "country-export-pages",
+    "displayName": "country-export-page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "string"
+    },
+    "meta_tags": {
+      "type": "component",
+      "component": "country-export-page.meta-tags",
+      "repeatable": false
+    },
+    "section_1": {
+      "type": "component",
+      "component": "country-export-page.section-1",
+      "repeatable": false
+    },
+    "section_2": {
+      "type": "component",
+      "component": "country-export-page.section-2",
+      "repeatable": false
+    },
+    "section_3": {
+      "type": "component",
+      "component": "country-export-page.section-3",
+      "repeatable": false
+    },
+    "section_4": {
+      "type": "component",
+      "component": "country-export-page.section-4",
+      "repeatable": false
+    },
+    "section_5": {
+      "type": "component",
+      "component": "country-export-page.section-6",
+      "repeatable": false
+    },
+    "section_6": {
+      "type": "component",
+      "component": "country-export-page.section-six",
+      "repeatable": false
+    },
+    "section_7": {
+      "type": "component",
+      "component": "country-export-page.section-7",
+      "repeatable": false
+    },
+    "section_8": {
+      "type": "component",
+      "component": "country-export-page.section-8",
+      "repeatable": false
+    },
+    "section_9": {
+      "type": "component",
+      "component": "country-export-page.section-9",
+      "repeatable": false
+    },
+    "section_10": {
+      "type": "component",
+      "component": "country-export-page.section-10",
+      "repeatable": false
+    },
+    "section_11": {
+      "type": "component",
+      "component": "country-export-page.section-11",
+      "repeatable": false
+    }
+  }
+}

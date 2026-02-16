@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_country_export_page_section_4s",
+  "info": {
+    "displayName": "section-4"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

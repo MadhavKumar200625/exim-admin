@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_country_export_page_section_3s",
+  "info": {
+    "displayName": "section-3"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "table": {
+      "type": "component",
+      "component": "common.table-with-values",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_country_import_page_section_6s",
+  "info": {
+    "displayName": "section-6"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "buyer_1": {
+      "type": "string"
+    },
+    "buyer_2": {
+      "type": "string"
+    },
+    "buyer_3": {
+      "type": "string"
+    },
+    "buyer_4": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

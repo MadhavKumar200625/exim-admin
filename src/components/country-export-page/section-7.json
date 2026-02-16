@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_country_export_page_section_7s",
+  "info": {
+    "displayName": "section-7"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "image": {
+      "type": "component",
+      "component": "common.image",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

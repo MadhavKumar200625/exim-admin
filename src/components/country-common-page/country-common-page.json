@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_country_common_page_country_common_pages",
+  "info": {
+    "displayName": "section-1"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    },
+    "image": {
+      "type": "component",
+      "component": "common.image",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

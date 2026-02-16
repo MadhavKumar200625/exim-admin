@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_country_common_page_section_3s",
+  "info": {
+    "displayName": "section-3"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "imp_exp_dynamic_fig": {
+      "type": "component",
+      "component": "common.imp-exp-dynamic-fig",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

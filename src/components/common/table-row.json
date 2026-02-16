@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_common_table_rows",
+  "info": {
+    "displayName": "table_row"
+  },
+  "options": {},
+  "attributes": {
+    "label_1_text": {
+      "type": "string"
+    },
+    "label_2__text": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

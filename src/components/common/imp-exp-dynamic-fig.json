@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_common_imp_exp_dynamic_figs",
+  "info": {
+    "displayName": "imp_exp_dynamic_fig"
+  },
+  "options": {},
+  "attributes": {
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    },
+    "imp_exp_dynamic_fig": {
+      "type": "integer"
+    },
+    "Title": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

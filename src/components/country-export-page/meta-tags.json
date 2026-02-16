@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_country_export_page_meta_tags",
+  "info": {
+    "displayName": "meta-tags"
+  },
+  "options": {},
+  "attributes": {
+    "meta_tags": {
+      "type": "component",
+      "component": "country-import-page.meta-tags",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

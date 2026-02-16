@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_country_export_page_section_sixes",
+  "info": {
+    "displayName": "section_six"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "seller_1": {
+      "type": "text"
+    },
+    "seller_2": {
+      "type": "text"
+    },
+    "seller_3": {
+      "type": "text"
+    },
+    "seller_4": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_country_import_page_section_2s",
+  "info": {
+    "displayName": "section-2"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Continent_1": {
+      "type": "component",
+      "component": "common.continent-box",
+      "repeatable": true
+    },
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

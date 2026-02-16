@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_country_export_page_section_11s",
+  "info": {
+    "displayName": "section-11"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

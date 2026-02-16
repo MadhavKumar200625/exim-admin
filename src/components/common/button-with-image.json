@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_common_button_with_images",
+  "info": {
+    "displayName": "button_with_image"
+  },
+  "options": {},
+  "attributes": {
+    "button_text": {
+      "type": "string"
+    },
+    "button_url": {
+      "type": "string"
+    },
+    "image_url": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

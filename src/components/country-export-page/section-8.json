@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_country_export_page_section_8s",
+  "info": {
+    "displayName": "section-8"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "component": "common.image",
+      "repeatable": true
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

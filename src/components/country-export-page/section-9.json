@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_country_export_page_section_9s",
+  "info": {
+    "displayName": "section-9"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "component": "common.button",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

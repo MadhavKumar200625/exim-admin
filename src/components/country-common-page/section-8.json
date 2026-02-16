@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_country_common_page_section_8s",
+  "info": {
+    "displayName": "section-8"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "faq_section": {
+      "type": "component",
+      "component": "common.faq-section",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

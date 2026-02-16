@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_country_common_page_section_5s",
+  "info": {
+    "displayName": "section-5"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "trade_tabs": {
+      "type": "component",
+      "component": "common.trade-tab",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

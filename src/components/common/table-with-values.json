@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_common_table_with_values",
+  "info": {
+    "displayName": "table_with_values"
+  },
+  "options": {},
+  "attributes": {
+    "Tittle": {
+      "type": "string"
+    },
+    "label_1": {
+      "type": "string"
+    },
+    "label_2": {
+      "type": "string"
+    },
+    "table_row": {
+      "type": "component",
+      "component": "common.table-row",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_country_import_page_meta_tags",
+  "info": {
+    "displayName": "meta-tags"
+  },
+  "options": {},
+  "attributes": {
+    "meta_title": {
+      "type": "string"
+    },
+    "meta_description": {
+      "type": "text"
+    },
+    "meta_keywords": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
